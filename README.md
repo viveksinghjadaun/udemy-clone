@@ -1,3 +1,4 @@
+Thanks to Mishal Gupta Sir , Priya soni mam and Priyanka Maharshi mam for giving this opportunity.
 [Visit My Website](https://udemy-clone-vivekk.netlify.app/)
 This is Udemy Clone using React 
 
